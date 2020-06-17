@@ -1,6 +1,7 @@
 Developed in June 2020 by John Cozen for UC Davis
 Based on 'React-photo-gallery' by @Neptunian on Github https://github.com/neptunian/react-photo-gallery
 
+Demo: https://ucdphotoapp.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
